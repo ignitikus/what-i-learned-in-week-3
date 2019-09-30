@@ -11,10 +11,10 @@ Variables can be declared by using certain keywords:
 
     let x = 5;
     x = 4;
-### We declared `x` as 5 using `let` keyword. On the line below we've changed the value of `x` to 4; 
+We declared `x` as 5 using `let` keyword. On the line below we've changed the value of `x` to 4; 
 
     const x = 6;
-### This time we used `const` to declare `x`. This variable cannot be re-declared without changing the original value.
+This time we used `const` to declare `x`. This variable cannot be re-declared without changing the original value.
 
 ## *Data types*
 Variables can hold different type of data:
@@ -39,3 +39,10 @@ To call a function use the name of the function with arguments within parenthesi
     addsOne(2);
 
 The output will be `return`ed as 3. 
+
+## *Output*
+There are several methods to output information in JS:
+
+    console.log outputs information in console window. Primarily used for debugging purposes. 
+
+    return stops code from further execution and returns the value.
