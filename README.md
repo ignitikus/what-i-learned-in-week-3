@@ -46,3 +46,12 @@ There are several methods to output information in JS:
     console.log outputs information in console window. Primarily used for debugging purposes. 
 
     return stops code from further execution and returns the value.
+
+## *Human Resource Machine*
+During week 3 we've completed following levels:
+
+        Level 12 - Tetracontiplier 
+        Level 13 - Equalization Room
+        Level 14 - Maximization Room
+        Level 15 - Absolute Positivity
+        Level 16 - Exclusive Lounge
